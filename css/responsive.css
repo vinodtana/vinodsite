@@ -70,6 +70,9 @@
 	}
 	.slider .content-heading p.lead { margin-bottom: 20px; }
 	.slider .carousel-indicators { bottom: 30px; }
+	.tech_section{
+		width: 100% !important;
+	}
 }
 @media (max-width: 603px) { 
 	.slider a.goto-btn { display: none;}
