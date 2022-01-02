@@ -73,7 +73,7 @@ a:focus {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
     color: #333;
-    border: 1px solid #EFECE6;
+    /* border: 1px solid #EFECE6; */
 }
 .navbar-default .navbar-toggle { border-color: transparent }
 .navbar-default .navbar-toggle:hover,
@@ -1162,3 +1162,19 @@ ul.meta-tags li:last-child:after { content: ' ' }
 .comment form { margin-top: -30px }
 .comment input,
 .comment textarea { margin-bottom: 15px }
+.myExperience_details .experience .media-left-logo{
+    width: 100px;
+    float: left;
+}
+
+.myExperience_details .experience .media-body{
+    padding-left: 20px;
+}
+.tech_logo{
+    padding: 20px;
+    display: block;
+}
+.tech_section{
+    width: 75%;
+    margin: auto;
+}
